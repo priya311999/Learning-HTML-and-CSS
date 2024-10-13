@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    /* background-color: black; */
+    color: goldenrod;
+}
+
+.left{
+    width: 25vw;
+}
+
+.right{
+    width: 75vw;
+}
+.logo{
+    height: 30px;
+    width: 100px;
+}
+
+.home ul li{
+    width: 24px;
+    list-style: none;
+    display: flex;
+    gap:4px;
+
+}
+
